@@ -141,7 +141,7 @@ header {
   padding: 1rem 0;
 }
 
-.beginning {
+.wrapper {
   position: relative;
   overflow: hidden;
 }
